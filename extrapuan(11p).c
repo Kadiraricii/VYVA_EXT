@@ -1,3 +1,7 @@
+// MEHMET KADİR ARICI
+// 2420161146
+// https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=BozfGKJpa9
+
 #include <stdio.h>
 
 void dizi_yazdir(int dizi[], int BOYUT) {
